@@ -1,0 +1,39 @@
+.root{
+    -fx-background-color: #383838;
+}
+.StackPane0{
+       -fx-background-color: #EBEBEA;
+}
+.StackPane2{
+       -fx-background-color: #FFDFDB;
+}
+.StackPane4{
+       -fx-background-color: #FCC7A6;
+}
+.StackPane8{
+       -fx-background-color: #CBBAB1;
+}
+.StackPane16{
+       -fx-background-color: #9CBEB9;
+}
+.StackPane32{
+       -fx-background-color: #001f3f;
+}
+.StackPane64{
+       -fx-background-color: #7FDBFF;
+}
+.StackPane128{
+       -fx-background-color: #F012BE;
+}
+.StackPane256{
+       -fx-background-color: #01FF70;
+}
+.StackPane512{
+       -fx-background-color: #FF4136;
+}
+.StackPane1024{
+       -fx-background-color: #B10DC9;
+}
+.StackPane2048{
+       -fx-background-color: #0A2436;
+}
